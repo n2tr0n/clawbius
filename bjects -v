@@ -1,0 +1,40 @@
+[33mf8a77d2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: Branch: renamed refs/heads/fresh-start to refs/heads/main
+[33mf8a77d2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: commit (initial): Initial commit
+[33m0908c88[m HEAD@{3}: pull --tags origin main: Fast-forward
+[33mcc149e0[m HEAD@{4}: checkout: moving from doc-and-license-cleanup to main
+[33mb1162b6[m[33m ([m[1;31morigin/doc-and-license-cleanup[m[33m, [m[1;32mdoc-and-license-cleanup[m[33m)[m HEAD@{5}: commit: readme update
+[33mf0ac07f[m HEAD@{6}: commit: readme update
+[33m9cf572d[m HEAD@{7}: commit: icon work
+[33m5eedec5[m HEAD@{8}: commit: readme updates
+[33m2bc9c58[m HEAD@{9}: commit: readme updates
+[33m3bdf099[m HEAD@{10}: commit: removed unneeded icons and artwork
+[33mcb4c10d[m HEAD@{11}: commit: remove version check logic
+[33m1a8dcdc[m HEAD@{12}: commit: update logo ansi
+[33mf15083b[m HEAD@{13}: commit: whitespace trim
+[33m06fd7cd[m HEAD@{14}: commit: ANSI updates
+[33m8005266[m HEAD@{15}: commit: updated branding
+[33mf7f4e4b[m HEAD@{16}: commit: removed API_TEST_PLAN
+[33mdd1e4f0[m HEAD@{17}: commit: more cleanup
+[33m13083bb[m HEAD@{18}: commit: doc cleanup
+[33ma6622c8[m HEAD@{19}: commit: electronbuilder updates
+[33mf349ef3[m HEAD@{20}: commit: gitignore dance
+[33m21980b1[m HEAD@{21}: commit: removed test plan
+[33md6c4c6d[m HEAD@{22}: commit: cleanup
+[33m0e9d4af[m HEAD@{23}: commit: new logo
+[33m983dc27[m HEAD@{24}: commit: not sure
+[33md1e364e[m HEAD@{25}: rebase (finish): returning to refs/heads/doc-and-license-cleanup
+[33md1e364e[m HEAD@{26}: rebase (continue): first pass
+[33m5c4d581[m HEAD@{27}: pull --rebase origin doc-and-license-cleanup (start): checkout 5c4d58152d45853d51b1afa86433ab3f196655ac
+[33m0f6862b[m HEAD@{28}: checkout: moving from doc-and-license-cleanup to doc-and-license-cleanup
+[33m0f6862b[m HEAD@{29}: commit: first pass
+[33mcc149e0[m HEAD@{30}: checkout: moving from main to doc-and-license-cleanup
+[33mcc149e0[m HEAD@{31}: checkout: moving from refine-1---docs-and-tests to main
+[33ma2a4d0c[m[33m ([m[1;31morigin/refine-1---docs-and-tests[m[33m, [m[1;32mrefine-1---docs-and-tests[m[33m)[m HEAD@{32}: checkout: moving from main to refine-1---docs-and-tests
+[33mcc149e0[m HEAD@{33}: checkout: moving from refine-1---docs-and-tests to main
+[33ma2a4d0c[m[33m ([m[1;31morigin/refine-1---docs-and-tests[m[33m, [m[1;32mrefine-1---docs-and-tests[m[33m)[m HEAD@{34}: commit: additional character tests
+[33mb2aa936[m HEAD@{35}: commit: resolve failed tests
+[33madce97b[m HEAD@{36}: commit: test script v1
+[33mcc149e0[m HEAD@{37}: checkout: moving from main to refine-1---docs-and-tests
+[33mcc149e0[m HEAD@{38}: commit: first vibe
+[33m71fa55f[m HEAD@{39}: commit: initial commit
+[33m6d003d7[m HEAD@{40}: clone: from https://github.com/n2tr0n/Clawebius.git

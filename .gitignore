@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+
+# Project-specific
+tests/
+API_TEST_PLAN.md
+
+# Secrets / local config
+.env
+.env.*
