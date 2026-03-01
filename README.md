@@ -17,7 +17,7 @@ Clawbius currently is in a early development state, and is not distributed with 
 This project has not been endorsed by the creators of Moebius in any way.
 
 * [Openclaw](https://github.com/openclaw/openclaw)
-* [ANSIClaw Skill Clawhub page](https://TBD.notyet)
+* [ANSIClaw Skill Clawhub page](https://TBD.notyet) (not yet public)
 * [ANSIClaw Skill Project](https://github.com/n2tr0n/ansiclaw)
 
 
