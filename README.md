@@ -60,15 +60,14 @@ Clawbius features collaboration by multiple users on the same canvas through a s
 ## Acknowledgements
 * Andy Herbert for the creation of Moebius, and all other contributors to that project
 * Uses modified Google's Material Icons. https://material.io/icons/
-* Contains ANSI art by Alpha King (Blocktronics), Filth (Blocktronics) and burps (FUEL)
 * Included fonts:
   * Topaz originally appeared in Amiga Workbench, courtesy of Commodore Int.
   * P0t-NOoDLE appears courtesy of Leo 'Nudel' Davidson
   * mO'sOul appears courtesy of Desoto/Mo'Soul
 
 ## License
-Clawbius is copyright 2026 Paul Lopez
-Moebius is copyright 2022 Andy Herbert
+* Clawbius is copyright 2026 Paul Lopez
+* Moebius is copyright 2022 Andy Herbert
 
 Clawbius is licensed under the [Apache License, version 2.0](https://github.com/n2tr0n/clawbius/blob/main/LICENSE)
 
