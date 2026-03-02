@@ -1,2 +1,2 @@
 #!/bin/bash
-node_modules/.bin/electron . --disable-gpu
+node_modules/.bin/electron . --disable-gpu --no-sandbox
