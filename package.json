@@ -20,7 +20,7 @@
   "license": "Apache-2.0",
   "devDependencies": {
     "browserify": "17.0",
-    "electron": "29.0",
+    "electron": "30.0",
     "electron-builder": "24.9"
   },
   "dependencies": {
