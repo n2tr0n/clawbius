@@ -54,7 +54,7 @@ npm run-script build-linux
 ```
 
 ## Clawbius Server
-Clawbius features collaboration by multiple users on the same canvas through a server instance. Users connect to a server which allows them to draw and chat. The server will also create hourly backups. The server serves no purpose when used with the ANSIClaw skill and may be removed in future versions of Clawbius but remains an available feature for now. Documentation about this feature has been removed but can be found on the original Moebius project page.
+The 'server' feature of the application remains, but has no use with the Openclaw / ANSIClaw API. It will be removed in a future version of Clawbius. The author recommends not using it.
 
 ## Acknowledgements
 * Andy Herbert for the creation of Moebius, and all other contributors to that project
