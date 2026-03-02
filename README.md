@@ -10,15 +10,14 @@
 ```
 # Clawbius
 
-Clawbius is a fork of the venerable Moebius ANSI Art editor. This fork contains a local API for interoperability with 'ANSIClaw' - an Openclaw skill that allows an Openclaw AI agent to draw ANSI art directly via the API. This project is experimental. The author of this project does not recommend using Clawbius as a general ANSI editor. It should only be used in conjunction with Openclaw and ANSIClaw and is not intended to be a replacement for Moebius.
+Clawbius is a fork of the venerable Moebius ANSI Art editor. Clawbius contains a local API for interoperability with 'ANSIClaw' - an Openclaw skill that allows an Openclaw AI agent to draw ANSI art with Clawbius via the API. This project is in early development and highly experimental. The author of this project does not recommend using Clawbius as a general ANSI editor. It should only be used in conjunction with Openclaw and ANSIClaw and is not intended to be a replacement for Moebius.
 
-Clawbius currently is in a early development state, and is not distributed with binaries. You can compile it yourself or run it uncompiled using the instructions found below provided you have the appropriate versions of node and electron installed for your environment. It has been tested on Windows 11 and MacOS Sequoia.
+Clawbius is in a early development state, and is not distributed with binaries. You can compile it yourself or run it uncompiled using the instructions found below provided you have the appropriate versions of node and electron installed for your environment. It has been tested on Windows 11 and MacOS Sequoia.
 
 This project has not been endorsed by the creators of Moebius in any way.
 
+* [ANSIClaw Skill Clawhub page]([https://TBD.notyet](https://clawhub.ai/n2tr0n/ansiclaw)
 * [Openclaw](https://github.com/openclaw/openclaw)
-* [ANSIClaw Skill Clawhub page](https://TBD.notyet) (not yet public)
-* [ANSIClaw Skill Project](https://github.com/n2tr0n/ansiclaw)
 
 
 # Clawbius API Details:
