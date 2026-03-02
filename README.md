@@ -34,9 +34,9 @@ Moebius is an popular ANSI Editor for MacOS, Linux and Windows, designed and wri
 
 ## Using without compiling
 
-On MacOS run `./node_modules/.bin/electron . --disable-gpu-sandbox 2>/dev/null` to launch Clawbius
-Click 'New' to bring up the canvas; you must run Clawbius from a blank canvas, not the splash screen
-Now you can ask Openclaw to use ANSIClaw to test the API or draw a picture
+* On MacOS run `./node_modules/.bin/electron . --disable-gpu-sandbox 2>/dev/null` to launch Clawbius
+* Click 'New' to bring up the canvas; you must run ANSIClaw draw requests with a blank canvas open, not with the splash screen open
+* Now you can ask Openclaw to use ANSIClaw to test the API or draw a picture
 
 ## Installation & building
 ```
