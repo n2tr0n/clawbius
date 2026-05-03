@@ -18,3 +18,8 @@ API_TEST_PLAN.md
 # Secrets / local config
 .env
 .env.*
+
+# Opencode
+.opencode/
+opencode.json
+AGENTS.md

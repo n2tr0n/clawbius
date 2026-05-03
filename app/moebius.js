@@ -16,6 +16,8 @@ let splash_screen;
 const discord = require("./discord");
 const fs = require("fs");
 const argv = require("minimist")(process.argv);
+console.log("CLAWBIUS_DEBUG: process.argv =", process.argv);
+console.log("CLAWBIUS_DEBUG: parsed argv =", argv);
 
 function cleanup(id) {
     menu.cleanup(id);
@@ -334,7 +336,7 @@ if (darwin) {
         });
     });
     electron.app.on("activate", (event) => {
-        if (!has_documents_open()) show_splash_screen();
+        if (!has_documents_open() && !argv['no-splash'] && argv.splash !== false && !prevent_splash_screen_at_startup) show_splash_screen();
     });
 }
 
@@ -353,7 +355,12 @@ electron.app.on("ready", (event) => {
     if (files.length > 0) {
         files.forEach((file) => open_file(file));
     } else {
-        if (!prevent_splash_screen_at_startup) show_splash_screen();
+        if (argv['no-splash'] || argv.splash === false) {
+            prevent_splash_screen_at_startup = true;
+            new_document();
+        } else if (!prevent_splash_screen_at_startup) {
+            show_splash_screen();
+        }
     }
     if (darwin) electron.app.dock.setMenu(menu.dock_menu);
     if (prefs.get("discord")) {
